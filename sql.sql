@@ -1,3 +1,4 @@
+CREATE USER 'vvysotsk'@'localhost' IDENTIFIED BY '1234qwerASDF'
 CREATE DATABASE test;
 use test;
 CREATE TABLE users (

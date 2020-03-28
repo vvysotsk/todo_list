@@ -5,8 +5,8 @@
         
         public function __construct() {
             $servername = "localhost";
-            $username = "admin";
-            $password = "pass";
+            $username = "vvysotsk";
+            $password = "1234qwerASDF";
             $database = "test";
 
             // Create connection
